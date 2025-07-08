@@ -6,8 +6,9 @@ tags:
 Projects:
   - Metbuoy+
 ---
-# Command and Data Handling "C&DH" Baseboard
-## Description
+
+# 1	Command and Data Handling "C&DH" Baseboard
+## 1.1	Description
 The C&DH Baseboard is a docking board for the [[C&DH Primary Board]], mounted via two mezzanine connectors. This board is powered by an Power Control and Distribution Module [[PCDM]], connected via Card Edge Connector, or via USB Type C port. 
 
 This board communicates houses digital isolator and sensor tranlatior devices such as RS232, RS485, SDI, CAN, etc, in which the data are then passed and processed by the attached Primary Board. 
@@ -22,29 +23,34 @@ This board was made under the arQ Project of DOST-ASTI, which is an upgraded ver
 
 ![[Iso View 1.jpg|600]]
 
-# Basic Parameters
-## MicroController
+# 2	Basic Parameters
+## 2.1	MicroController
+
 | **Part**         | STM32WB55CGU6                |
 | ---------------- | ---------------------------- |
 | **Manufacturer** | ST-Microelectronics          |
 | **Core**         | Arm Cortex-M4, Arm Cortex-M0 |
 | **Package**      | 48-UFQFPN (7x7) Exposed Pad  |
 
-## Internal Memories
+## 2.2	Internal Memories
+
 | **FLASH** | 1MB   |
 | --------- | ----- |
 | **SRAM**  | 256kB |
-## Oscillators
+## 2.3	Oscillators
+
 | HSE     | 32MHz     |
 | ------- | --------- |
 | **LSE** | 32.768KHz |
-## Power
+## 2.4	Power
+
 | Sources       | USB Connector <br> 12V from PCDM |
 | ------------- | -------------------------------- |
 | **VDD Pins**  | 3.3V                             |
 | **VDDA Pins** | 3.3V                             |
 | **SMPS**      | 3.3V                             |
-## Regulator
+## 2.5	Regulator
+
 | Manufacturer | Texas Instruments |
 | ------------ | ----------------- |
 | **Part**     | TPS62172DSGR      |
@@ -58,7 +64,8 @@ This board was made under the arQ Project of DOST-ASTI, which is an upgraded ver
 | **Package**  | WSON (3x3)                                                                                                           |
 | **Input**    | +2.5V to +12V                                                                                                        |
 | **Output**   | +3.9V @ 1A                                                                                                           |
-## PCB
+## 2.6	PCB
+
 | Color          | Green         |
 | -------------- | ------------- |
 | **Size (LxW)** | 85.3mm x 60mm |
@@ -66,14 +73,16 @@ This board was made under the arQ Project of DOST-ASTI, which is an upgraded ver
 | **Layer**      | 4 Layers      |
 
 
-# Terminal Blocks, Connectors and Headers
+# 3	Terminal Blocks, Connectors and Headers
 
-## J2 Terminal Block Pins
+## 3.1	J2 Terminal Block Pins
+
 | #   | Name | Function | Connected To |
 | --- | ---- | -------- | ------------ |
 | 1   | AN1  | ADC      | J1.24        |
 | 2   | AN2  | ADC      | J1.26        |
-## J3 Terminal Block Pins
+## 3.2	J3 Terminal Block Pins
+
 | #   | Name | Function | Connected To |
 | --- | ---- | -------- | ------------ |
 | 1   | 18V2 | Power    | J8.7         |
@@ -82,7 +91,8 @@ This board was made under the arQ Project of DOST-ASTI, which is an upgraded ver
 | 4   | 18V1 | Power    | J8.8         |
 | 5   | IN2  | Input    | U6.4         |
 | 6   | GND  | Ground   | Ground       |
-## J4 Terminal Block Pins
+## 3.3	J4 Terminal Block Pins
+
 | #   | Name  | Function      | Connected To |
 | --- | ----- | ------------- | ------------ |
 | 1   | CANL  | Diff. Pair    | U10.6        |

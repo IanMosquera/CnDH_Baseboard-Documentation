@@ -6,6 +6,7 @@
 | TPS62172DSGR | 3–17V 0.5A Step-Down Converter in 2x2 QFN package                                          | 3V to 17V         | 3.3v           |
 |              |                                                                                            |                   |                |
 |              |                                                                                            |                   |                |
+|              |                                                                                            |                   |                |
 
 
 # Circuit Simulation

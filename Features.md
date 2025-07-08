@@ -1,7 +1,7 @@
-## Features
+# 1	Features
 - On board Temperature Sensor (STS-40)
 - Wireless enabled (BLE) STM32WB55
-### Sensor Interfaces for Primary MCU
+## 1.1	Sensor Interfaces for Primary MCU
 
 - UART
 - SPI
@@ -13,15 +13,15 @@
 - 4 x Input, Output, ADC
 - USB
 
-### Compatible Mountable boards
+## 1.2	Compatible Mountable boards
 - PCDM
 - Primary Board
 - LTE and Lora Board
-## Used for
+# 2	Used for
 1. interfacing various environmental sensors
 2. mounts Primary Board
 3. mounts LTE Board and LoRa board
 4. provides auxilary power for the whole arQ
 
 
-## Major Components
+# 3	Major Components

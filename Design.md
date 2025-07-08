@@ -1,6 +1,6 @@
-# Power Subsystem
+# 1	Power Subsystem
 
-## 3.3 Regulators
+## 1.1	+3.3 Regulators
 
 ```mermaid
 
@@ -15,7 +15,7 @@ flowchart LR
 	E[TPS62172DSGR Reg2] --> H[RS485]
 
 ```
-## 3.9V Regulator
+## 1.2	+3.9V Regulator
 ``` mermaid
 
 flowchart LR
