@@ -1,0 +1,46 @@
+﻿#,Designator,Name,Manufacturer 1,Manufacturer Part Number 1,Description,Quantity
+1,"C1, C3, C4, C5, C6, C9",GRM21BR61E106KA73K,Murata,GRM21BR61E106KA73K,0805 25 V 10 uF ±20% Tolerance X5R Monolithic Ceramic Chip Capacitor,6
+2,"C2, C10",CL21A226KOQNNNE,Samsung,CL21A226MOQNNNE,CL21 Series 0805 22 uF 16 V ±10% Tolerance X5R Multilayer Ceramic Capacitor,2
+3,"C7, C22, C23",0402YA100KAT2A,Samsung,CL05C100JB5NNNC,0402 10 pF 16 V ±10 % Tolerance C0G/NP0 SMT Multilayer Ceramic Capacitor,3
+4,"C8, C12, C13, C14, C15, C16, C19, C20, C27, C28, C29, C30, C31, C32, C33, C34, C35, C36, C37, C38, C39, C42",UMK105B7104KV-FR,Taiyo Yuden,UMK105B7104KV-FR,CAP CER 0.1uF 10% 50V X7R 0402,22
+5,"C11, C21",CL21A475KBQNNNE,Samsung,CL21A475KBQNNNE,CAP CER 4.7UF 50V X5R 0805,2
+6,C17,C1005X5R1E105K050BC,Samsung,CL05A105KA5NQNC,CAP CER 1 µF 25V 10% X5R 0402,1
+7,C18,8.85012E+11,Yageo,CC0402KRX7R8BB103,CAP CER 0.01µF 25V 10% X7R 0402,1
+8,"C24, C25",C1005C0G1H020B050BA,TDK,C1005C0G1H020B050BA,"Ceramic Capacitor, Multilayer, Ceramic, 50V, 5% +Tol, 5% -Tol, C0G, 30ppm/Cel TC, 0.000002uF, Surface Mount, 0402",2
+9,C26,CC0402KRX7R9BB101,Yageo,CC0402KRX7R9BB101,0402 100 pF 50 V ±10 % Tolerance X7R SMT Multilayer Ceramic Capacitor,1
+10,"C40, C41",CC0805KRX7R9BB332,Yageo,CC0805KRX7R9BB332,Cap Ceramic 0.0033uF 50V X7R 10% SMD 0805 125C T/R,2
+11,"D1, D2, D5, D7",B5819W,MCC,B5819W-TP,"Schottky Barrier Rectifier, 40 V, 1 A, -65 to 125 degC, 2-Pin SOD123, RoHS, Tape and Reel",4
+12,D3,SMAZ5V1-TP,MCC,SMAZ5V1-TP,SMAZ5V1 Series 5.1 V ±5% 1 W Surface Mount Zener Diode - DO-214AC (SMAJ),1
+13,D4,APT1608LVBC/D,Kingbright,APT1608LVBC/D,LED BLUE CLEAR 0603 SMD,1
+14,D6,SML-LX0603SYW-TR,Lumex,SML-LX0603SYW-TR,LED YELLOW DIFFUSED 0603 SMD,1
+15,FLT1,MLPF-WB-01E3,STMicroelectronics,MLPF-WB-01E3,RF Wireless Misc 2.4 GHz Matched filter companion chip for STM32WB,1
+16,"H1, H2, H3",215298-5,TE Connectivity AMP,215298-5,"Board Connector, 5 Contact(s), 1 Row(s), Female, Straight, 0.1 inch Pitch, Solder Terminal, Black Insulator, Receptacle",3
+17,J1,NPTC121KFXC-RC,Sullins,NPTC121KFXC-RC,12 Position Total Single Row 2.54 mm Pitch SMT No Guide Post Female Header,1
+18,"J2, J7",6.91214E+11,Wurth Electronics,6.91214E+11,2141 Series 3.5mm Pitch Straight; PCB Terminal Block; Through Hole; 2 Way,2
+19,"J3, J4, J5, J6",6.9123E+11,Wurth Electronics,6.9123E+11,"Terminal Block, Wtb, 6Way, 24-16Awg Rohs Compliant: Yes |Wurth Elektronik 691230110006",4
+20,"J10, J11",DF40HC(4.0)-40DS-0.4V(70),Hirose,DF40HC(4.0)-40DS-0.4V(70),"FFC/FPC Connector, 40 Contact(s), 2 Row(s), Female, Straight, 0.016 inch Pitch, Surface Mount Terminal, Locking, Black Insulator, Plug",2
+21,J12,NPTC101KFXC-RC,Sullins,NPTC101KFXC-RC,"Board Connector, 10 Contact(s), 1 Row(s), Female, Straight, 0.1 inch Pitch, Surface Mount Terminal, Locking",1
+22,L1,IHLP2525AHER4R7M01,Vishay Dale,IHLP2525AHER4R7M01,Inductor Power Shielded Wirewound 4.7uH 20% 100KHz 3A 78mOhm DCR 2525 T/R,1
+23,"L2, L3",DFE252010P-2R2M=P2,Murata,DFE252010P-2R2M=P2,"General Purpose Inductor, 2.2uH, 20%, 1 Element, Metal Alloy-Core, SMD, 1008",2
+24,L4,LQM21FN100M70L,Murata,LQM21FN100M70L,Inductor Power Chip Shielded Multi-Layer 10uH 20% 1MHz Ferrite 100mA 780mOhm DCR 0805 T/R,1
+25,"MH5, MH6, MH7",9774010151R,Wurth Electronics,9774010151R,"WA-SMSI SMT Steel Spacer, M2.5 Internal non Stop",3
+26,"Q1, Q2",NTJD5121NT1G,onsemi,NTJD5121NT1G,MOSFET 2N-CH 60V 0.295A SOT363,2
+27,R2,RC0805FR-131ML,Yageo,RC0805FR-131ML,"SMD Chip Resistor, 1 MOhm, ± 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose",1
+28,"R3, R7, R8, R9, R10, R11, R13, R18, R19, R20",RK73H1JTTD1002F,KOA Speer,RK73H1JTTD1002F,RES 10K Ohm 1% 1/10W 0603,10
+29,R4,RC0805FR-07147KL,Yageo,RC0805FR-07147KL,"SMD Chip Resistor, 147 kOhm, ± 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose",1
+30,"R6, R14, R15, R17",ERJ-6RBD5100V,Panasonic,ERJ-6RBD5100V,Res Thick Film 0805 510 Ohm 0.5% 0.1W(1/10W) ±50ppm/C Pad SMD Automotive T/R,4
+31,R12,Resistor 120R +/-5 % 0603 0.1 W,Panasonic,ERJ-3GEYJ121V,"Chip Resistor, 120 Ohms, +/-5 %, 0.1 W, -55 to 155 degC, 0603",1
+32,R16,CRCW0805200KFKEA,Vishay,CRCW0805200KFKEA,Res Thick Film 0805 200K Ohm 1% 1/8W ±100ppm/°C Molded SMD Paper T/R,1
+33,SW1,B3U-1000P-B,Omron,B3U-1000P-B,"Ultra-small Surface-mounting Tactile Switches with High Contact Reliability, SPST-NO, -25 to 70 degC, 2-Pin SMD, RoHS, Tape and Reel",1
+34,"U1, U3",TPS62172DSGR,Texas Instruments,TPS62172DSGR,"Switching Regulator, Current-mode, 0.5A, 2250kHz Switching Freq-Max, PDSO8",2
+35,U2,TPS63060DSCT,Texas Instruments,TPS63060DSCT,"Switching Regulator, Current-mod",1
+36,U4,STM32WB55CGU6,STMicroelectronics,STM32WB55CGU6,"IC RF TxRx + MCU 802.15.4, Bluetooth Bluetooth v5.2, Thread, Zigbee® 2.405GHz ~ 2.48GHz 48-UFQFN Exposed Pad",1
+37,U5,MAX3232IPWR,Texas Instruments,MAX3232IPWR,2/2 Transceiver Full RS232 16-TSSOP,1
+38,"U6, U7",ISO6740FDWR,Texas Instruments,ISO6740FDWR,"General-purpose, quad-channel, 4/0 digital isolator 16-SOIC -40 to 125",2
+39,U8,SN65HVD75DR,Texas Instruments,SN65HVD75DR,"Line Transceiver, 1 Func, 1 Driver, 1 Rcvr, PDSO8",1
+40,U9,STS40-CD1B-R3,Sensirion,STS40-CD1B-R3,Digital Temperature Sensor,1
+41,U10,MCP2562FDT-H/MF,Microchip,MCP2562FDT-H/MF,CAN Interface IC CAN Flexible Data Rate Transceiver,1
+42,U11,USBLC6-2,STMicroelectronics,USBLC6-2SC6,Very Low Capacitance Esd Protection,1
+43,USB-C1,217179-0001,Molex,217179-0001,Connector USB Type C Female 16Positions 0.5mm Right Angle SMT Embossed T/R,1
+44,X1,FA-128 32.0000MF20X-K5,Epson,FA-128 32.0000MF20X-K5,Crystal 32MHz ±10ppm (Tol) ±20ppm (Stability) 10pF FUND 60Ohm 4-Pin Ultra Mini-CSMD,1
+45,X2,MU01499-32.768K,NDK,MU01499-32.768K,Crystal 32.768KHZ 9PF SMD,1
