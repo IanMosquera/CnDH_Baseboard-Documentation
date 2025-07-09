@@ -32,6 +32,7 @@ This board was made under the arQ Project of DOST-ASTI, which is an upgraded ver
 | **Core**         | Arm Cortex-M4, Arm Cortex-M0 |
 | **Package**      | 48-UFQFPN (7x7) Exposed Pad  |
 
+
 ## 2.2	Internal Memories
 
 | **FLASH** | 1MB   |

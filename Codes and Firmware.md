@@ -2,7 +2,22 @@
 
 ```mermaid
 flowchart TD
-A[Start] --> B[Sync Date and Time from PMCU]
+A[Start] --> B[System Init]
+B[System Init] --> C[BLE Init]
+C[BLE Init] --> D[Timer Loop]
+D[Timer Loop] --> E[1sec Loop]
+D[Timer Loop] --> F[5sec Loop]
+D[Timer Loop] --> G[Minute Loop]
+E[1sec Loop] --> H[Count Time]
+H[Count Time] --> E[1sec Loop]
+F[5sec Loop] --> L[Print count]
+L[Print count] --> F[5sec Loop]
+G[Minute Loop] --> I[Check PMCU]
+I[Check PMCU] --> J[Sync Time]
+I[Check PMCU] -->|PMCU Error| M[Reset PMCU]
+M[Reset PMCU] --> J[Sync Time]
+J[Sync Time] --> K[Get Data]
+K[Get Data] --> G[Minute Loop]
 ```
 
 # 2	Check Primary Board Code
